@@ -25,7 +25,7 @@ QA Engineer Manual / Auto • Python + Pytest + Playwright • API • SQL • C
 ### 🛠️ Технологический стек
 
 **Auto:**  
-`Python` • `Pytest` • `Playwright` • `POM` • `Allure` • `Requests`
+`Python` • `Pytest` • `Playwright` • `POM` • `Requests`
 
 **Manual:**  
 `Функциональное` • `Регрессионное` • `Smoke` • `Sanity` • `UI/UX`
@@ -66,15 +66,16 @@ QA Engineer Manual / Auto • Python + Pytest + Playwright • API • SQL • C
 ### 📊 GitHub статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=jetspaser&show_icons=true" height="170">
 </p>
 
 ---
 
 ### 📫 Контакты
 
-Telegram: **@jetspaser**  
-Email: **jetspaser@gmail.com**
+📨 Telegram: **[@jetspaser](https://t.me/jetspaser)**  
+📧 Email: **[jetspaser@gmail.com](mailto:jetspaser@gmail.com)**  
+📸 Instagram: **[@jetspaser](https://instagram.com/jetspaser)**
 
 ---
 
