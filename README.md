@@ -4,6 +4,12 @@
 QA Engineer Manual / Auto • Python + Pytest + Playwright • API • SQL • CI/CD
 </p>
 
+![Python](https://img.shields.io/badge/Python-3776AB)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b)
+![Postman](https://img.shields.io/badge/Postman-F0682A)
+![GitLab](https://img.shields.io/badge/GitLab-E24329)
+
 ---
 
 ### 🚀 О себе
