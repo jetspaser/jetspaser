@@ -27,7 +27,7 @@ QA Engineer Manual / Auto • Python + Pytest + Playwright • API • SQL • C
 ### 🛠️ Технологический стек
 
 **Auto:**  
-`Python` • `Pytest` • `Playwright` • `POM` • `Requests`
+`Python` • `Pytest` • `Playwright` • `POM` • `Requests` • `Allure`
 
 **Manual:**  
 `Функциональное` • `Регрессионное` • `Smoke` • `Sanity` • `UI/UX`
