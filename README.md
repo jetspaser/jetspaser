@@ -50,7 +50,7 @@ QA Engineer Manual / Auto • Python + Pytest + Playwright • API • SQL • C
 
 | Репозиторий | Технологии | Что внутри |
 |------------|------------|------------|
-| [qa-playwright-pytest-saucedemo](#) | Python, Pytest, Playwright, POM | Автотесты UI, фикстуры, PageObjects, отчёты |
+| **[qa-playwright-pytest-saucedemo](https://github.com/jetspaser/qa-playwright-pytest-saucedemo)** | Python, Pytest, Playwright, POM | Автотесты UI, фикстуры, PageObjects, отчёты |
 | [api-testing-portfolio](#) | Postman, Python Requests | Сценарии API, коллекции, кейсы |
 | [qa-artifacts](#) | Test Design | Чек-листы, тест-кейсы, баг-репорты |
 
