@@ -16,21 +16,22 @@ QA Engineer Manual / Auto • Python + Pytest + Playwright • API • SQL • C
 
 ### 🚀 О себе
 
-Опытный QA Engineer с 3 годами коммерческой практики тестирования веб и мобильных приложений.  
-Специализируюсь на функциональном, регрессионном и API тестировании.  
-Осваиваю автоматизацию на Python + PyTest + Playwright с применением Page Object Model.
+QA Engineer с коммерческим опытом более 3 лет в тестировании веб и мобильных приложений.
+Работаю с функциональным, регрессионным и API тестированием, уверенно использую тест дизайн и анализ требований.
 
-Работаю на качество, прозрачность процессов и снижение дефектов на продакшене.
+Развиваю автоматизацию на Python с использованием Pytest, Playwright и Page Object Model. Пишу UI и API автотесты, внедряю их в CI, улучшаю покрытие и прозрачность QA процессов.
+
+Фокусируюсь на качестве продукта, предсказуемости релизов и снижении количества дефектов на продакшене.
 
 -----
 
 ### 🛠️ Технологический стек
 
 **Auto:**  
-`Python` • `Pytest` • `Playwright` • `POM` • `Requests` • `Allure`
+`Python` • `Pytest` • `Playwright` • `POM` • `Requests` • `Allure` • `GitLab CI` • `Docker`
 
 **Manual:**  
-`Функциональное` • `Регрессионное` • `Smoke` • `Sanity` • `UI/UX`
+`Функциональное` • `Регрессионное` • `Smoke` • `Sanity` • `UI/UX` • `Тест дизайн`
 
 **API:**  
 `REST` • `SOAP` • `Postman` • `Swagger`
@@ -38,11 +39,14 @@ QA Engineer Manual / Auto • Python + Pytest + Playwright • API • SQL • C
 **Tools:**  
 `GitLab CI/CD` • `Jira` • `Git` • `Chrome DevTools`
 
+**Monitoring / Logs:**  
+`Grafana` • `Kibana`
+
 **DB:**  
 `MySQL` • `MongoDB`
 
 **OS:**  
-`Windows` • `Linux` • `Ubuntu`
+`Windows` • `Linux`
 
 ---
 
