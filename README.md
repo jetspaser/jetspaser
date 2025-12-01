@@ -1,7 +1,7 @@
 <h1 align="center">👋 Привет! Я — Илья Миронов</h1>
 
 <p align="center">
-QA Engineer Manual / Auto • Python + Pytest + Playwright • API • SQL • CI/CD
+QA Engineer Manual / Auto • Python + Pytest + Playwright • API • SQL • CI/CD 
 </p>
 
 <p align="center">
