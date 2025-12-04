@@ -69,14 +69,6 @@ QA Engineer с коммерческим опытом более 3 лет в те
 
 ---
 
-### 📊 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jetspaser&show_icons=true" height="170">
-</p>
-
----
-
 ### 📫 Контакты
 
 📨 Telegram: **[@jetspaser](https://t.me/jetspaser)**  
