@@ -1,56 +1,105 @@
-<h1 align="center">👋 Привет! Я — Илья Миронов</h1>
+<h1 align="center">🧪 QA Automation Engineer | Python</h1>
 
 <p align="center">
-QA Engineer Manual / Auto • Python + Pytest + Playwright • API • SQL • CI/CD 
+  <b>UI • API • Automation • CI/CD • Load Testing</b>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC" />
-  <img src="https://img.shields.io/badge/Playwright-45ba4b" />
-  <img src="https://img.shields.io/badge/Postman-F0682A" />
-  <img src="https://img.shields.io/badge/GitLab-E24329" />
+  <img src="https://img.shields.io/badge/QA-Automation-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-Testing-yellow?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/UI-Testing-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/API-Testing-green?style=for-the-badge">
 </p>
 
 ---
 
-### 🚀 О себе
+## 👋 About Me
 
-QA Engineer с коммерческим опытом более 3 лет в тестировании веб и мобильных приложений.
-Работаю с функциональным, регрессионным и API тестированием, уверенно использую тест дизайн и анализ требований.
+Привет! Меня зовут **Илья Миронов** — QA Engineer с **4 годами опыта** в тестировании веб-платформ, мобильных приложений, API и интеграций.  
+Фокус — **автоматизация тестирования на Python**, стабильные автотесты и CI/CD.
 
-Развиваю автоматизацию на Python с использованием Pytest, Playwright и Page Object Model. Пишу UI и API автотесты, внедряю их в CI, улучшаю покрытие и прозрачность QA процессов.
-
-Фокусируюсь на качестве продукта, предсказуемости релизов и снижении количества дефектов на продакшене.
-
------
-
-### 🛠️ Технологический стек
-
-**Auto:**  
-`Python` • `Pytest` • `Playwright` • `POM` • `Requests` • `Allure` • `GitLab CI` • `Docker`
-
-**Manual:**  
-`Функциональное` • `Регрессионное` • `Smoke` • `Sanity` • `UI/UX` • `Тест дизайн`
-
-**API:**  
-`REST` • `SOAP` • `Postman` • `Swagger`
-
-**Tools:**  
-`GitLab CI/CD` • `Jira` • `Git` • `Chrome DevTools`
-
-**Monitoring / Logs:**  
-`Grafana` • `Kibana`
-
-**DB:**  
-`MySQL` • `MongoDB`
-
-**OS:**  
-`Windows` • `Linux`
+- 🧪 UI & API Testing  
+- 🤖 Test Automation (Pytest, Playwright, POM)  
+- ⚙️ CI/CD (GitLab CI)  
+- 📈 Load & Performance Testing (JMeter)  
+- 🔍 Logs, metrics, root cause analysis  
 
 ---
 
-### 🧪 Мои проекты
+## 🛠️ Tech Stack
+
+### 🐍 Languages & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white">
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white">
+  <img src="https://img.shields.io/badge/Page_Object_Model-Architecture-lightgrey?style=flat">
+  <img src="https://img.shields.io/badge/Allure-FF4F00?style=flat">
+</p>
+
+---
+
+### 🌐 API & Backend Testing
+<p>
+  <img src="https://img.shields.io/badge/REST-API-success?style=flat">
+  <img src="https://img.shields.io/badge/SOAP-API-blue?style=flat">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/SoapUI-6DB33F?style=flat">
+  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=googlechrome&logoColor=white">
+</p>
+
+---
+
+### 📈 Load & Performance Testing
+<p>
+  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white">
+</p>
+
+---
+
+### ⚙️ CI/CD & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
+</p>
+
+---
+
+### 🗄️ Databases & Messaging
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
+</p>
+
+---
+
+### 📊 Monitoring & QA Tools
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white">
+</p>
+
+---
+
+## 🚀 What I’m Working On Now
+
+- 🔧 UI & API automation on **Python**
+- 🔄 CI/CD pipelines with **GitLab CI**
+- 🧪 API & load testing using **JMeter**
+- 📊 Test reports, metrics & analysis
+- 🧠 Improving test architecture & stability
+
+---
+
+### 📂 Featured Repositories 
 
 | Репозиторий | Технологии | Что внутри |
 |------------|------------|------------|
@@ -60,21 +109,28 @@ QA Engineer с коммерческим опытом более 3 лет в те
 
 ---
 
-### 📈 Достижения
+## 🧠 Highlights
 
-✅ Внедрил стандарты тестовой документации - ускорил onboarding  
-✅ Сократил количество возвратов задач на доработку  
-✅ Вывел в релиз крупные обновления без критических багов  
-✅ Повысил прозрачность QA процессов для аналитиков и PM
-
----
-
-### 📫 Контакты
-
-📨 Telegram: **[@jetspaser](https://t.me/jetspaser)**  
-📧 Email: **[jetspaser@gmail.com](mailto:jetspaser@gmail.com)**  
-📸 Instagram: **[@jetspaser](https://instagram.com/jetspaser)**
+- 🧪 50+ релизов без критических дефектов  
+- 📄 Улучшение QA-процессов и документации  
+- 🔍 Root cause analysis  
+- 🤝 Командная работа с dev / analyst / product  
 
 ---
 
-<h3 align="center">🔥 Ориентирован на качество. Готов к новым задачам.</h3>
+## 📫 Contacts
+
+<p align="left">
+  <a href="https://t.me/jetspaser">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="mailto:jetspaser@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/jetspaser">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
+  </a>
+</p>
+
